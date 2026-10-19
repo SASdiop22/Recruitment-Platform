@@ -90,3 +90,4 @@ backend/.idea/
 frontend/package-lock.json
 /.metadata/
 
+.DS_Store
