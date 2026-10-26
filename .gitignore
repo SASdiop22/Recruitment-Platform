@@ -91,3 +91,4 @@ frontend/package-lock.json
 /.metadata/
 
 .DS_Store
+._*
